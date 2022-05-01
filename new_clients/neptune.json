@@ -1,0 +1,86 @@
+[
+  {
+    "client_id": "78ER",
+    "amount": 120,
+    "duration": 12,
+    "risk": 2
+  },
+  {
+    "client_id": "UI67",
+    "amount": 5000,
+    "duration": 2,
+    "risk": 2
+  },
+  {
+    "client_id": "21ZA",
+    "amount": 300000,
+    "duration": 32,
+    "risk": 1
+  },
+  {
+    "client_id": "21ZA",
+    "amount": 120020,
+    "duration": 18,
+    "risk": 4
+  },
+  {
+    "client_id": "TY29",
+    "amount": 10000,
+    "duration": 3,
+    "risk": 9
+  },
+  {
+    "client_id": "TY29",
+    "amount": 300000,
+    "duration": 60,
+    "risk": 8
+  },
+  {
+    "client_id": "MM86",
+    "amount": 120000,
+    "duration": 11,
+    "risk": 20
+  },
+  {
+    "client_id": "MM86",
+    "amount": 8000,
+    "duration": 13,
+    "risk": 3
+  },
+  {
+    "client_id": "ER99",
+    "amount": 10000,
+    "duration": 18,
+    "risk": 9
+  },
+  {
+    "client_id": "ER99",
+    "amount": 10000,
+    "duration": 3,
+    "risk": 0
+  },
+  {
+    "client_id": "ER99",
+    "amount": 73000,
+    "duration": 3,
+    "risk": 1
+  },
+  {
+    "client_id": "BBB1",
+    "amount": 10000,
+    "duration": 5,
+    "risk": 1
+  },
+  {
+    "client_id": "SQS2",
+    "amount": 1200000,
+    "duration": 3,
+    "risk": 1
+  },
+  {
+    "client_id": "AA11",
+    "amount": 10000,
+    "duration": 10,
+    "risk": 1
+  }
+]
