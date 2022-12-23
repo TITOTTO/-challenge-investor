@@ -8,7 +8,7 @@
    - We need to be aware of errors to inform our clients ASAP.
    - Please add a #errors method on `Manager` to display all errors which happened investing.
 
-4. We'd like you to upgrade our system so our scamming grows international !!
+3. We'd like you to upgrade our system so our scamming grows international !!
    - Our new client send their data in a new format (JSON) (~./new_clients/*.json)
    - Our previous client still use their own format (CSV), be careful.
 

@@ -5,12 +5,12 @@ require_relative '../../lib/client'
 
 RSpec.describe Client do
   let(:client) { described_class.new(client_data) }
-  let(:client_data) { '123;1000;1;1' }
-  let(:clients_data) { %w[122;2000;1;1 123;1000;1;1] }
+  let(:client_data) { '1234;1000;1;1' }
+  let(:clients_data) { %w[1222;2000;1;1 1234;1000;1;1] }
 
   describe '#new' do
     it { expect { client }.not_to raise_error }
-    it { expect(client.id).to eq '123' }
+    it { expect(client.id).to eq '1234' }
     it { expect(client.amount).to eq 1000 }
     it { expect(client.duration).to eq 1 }
     it { expect(client.risk).to eq 1 }
